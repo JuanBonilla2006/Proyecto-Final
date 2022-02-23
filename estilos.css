@@ -7,6 +7,11 @@
 .titulo{
     text-align: center;
 }
-.imagen{
-    
+.fuente{
+    font-family: 'Kalam', cursive;;
+    font-size: 22px;
+}
+.fuente2{
+    font-family: 'Kalam', cursive;;
+    font-size: 18px;
 }
